@@ -16,13 +16,13 @@ Based in Madrid, Spain | Open to global opportunities
 
 ## Featured Projects 📂
 - [**F1 Driver Performance Analysis**](https://github.com/crissafrancisco/f1-driver-performance-analysis)  
-  Data-driven framework to evaluate Formula 1 drivers across eras using normalized points and constructor-weighted scoring.  
+  Evaluates driver performance across eras using normalized points and constructor-weighted scoring, highlighting adaptability and skill beyond raw wins.
 
 - [**Spain Tourism Forecasting**](https://github.com/crissafrancisco/spain-tourism-forecasting)  
-  Time series forecasting of Spanish tourism demand using SARIMA and Holt-Winters models, with insights for hospitality and travel operators.  
+  Forecasts monthly tourism demand with SARIMA and Holt-Winters models, providing insights for staffing, pricing, and marketing strategies in the hospitality sector.  
 
 - [**YouTube User Behavior Analysis**](https://github.com/crissafrancisco/youtube-user-behavior-analysis)  
-  Exploratory analysis of YouTube engagement data to uncover patterns in user interaction and content performance.  
+  Analyzes YouTube streaming and search history to uncover viewing patterns and content engagement trends.
 
 ---
 
