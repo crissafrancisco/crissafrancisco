@@ -1,16 +1,38 @@
-## Hi there 👋
+# Crissa Nicole C. Francisco 👩‍💻
 
-<!--
-**crissafrancisco/crissafrancisco** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Master’s student in **Business Analytics & Data Science** at IE University  
+Background in **Finance, Consulting, and E-commerce** (Procter & Gamble, Shopee, Frost & Sullivan)  
+Transitioning into **Business Analyst / Data Analytics** roles in tech  
+Based in Madrid, Spain | Open to global opportunities  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Skills
+- **Data & Programming:** SQL, Python (Pandas, NumPy), KNIME  
+- **Analytics & Forecasting:** Time Series (ARIMA, SARIMA, ETS), Regression, Data Visualization (Matplotlib, Power BI)  
+- **Business & Tools:** Agile/Scrum, SAP, Stakeholder Management, Project Management  
+
+---
+
+## Featured Projects 📂
+- [**F1 Driver Performance Analysis**](https://github.com/crissafrancisco/f1-driver-performance-analysis)  
+  Data-driven framework to evaluate Formula 1 drivers across eras using normalized points and constructor-weighted scoring.  
+
+- [**Spain Tourism Forecasting**](https://github.com/crissafrancisco/spain-tourism-forecasting)  
+  Time series forecasting of Spanish tourism demand using SARIMA and Holt-Winters models, with insights for hospitality and travel operators.  
+
+- [**YouTube User Behavior Analysis**](https://github.com/crissafrancisco/youtube-user-behavior-analysis)  
+  Exploratory analysis of YouTube engagement data to uncover patterns in user interaction and content performance.  
+
+---
+
+## Current Focus
+- Building SQL-based/Python case studies (customer cohorts, funnels, RFM analysis)  
+- Developing dashboards in Power BI and Tableau for business storytelling  
+- Converting academic and personal projects into practical, business-focused insights  
+
+---
+
+## Contact
+- **LinkedIn:** [linkedin.com/in/crissafrancisco](https://www.linkedin.com/in/crissafrancisco)  
+- **Email:** crissanicolefrancisco@gmail.com
