@@ -2,7 +2,7 @@
 
 Master’s student in **Business Analytics & Data Science** at IE University  
 Background in **Finance, Consulting, and E-commerce** (Procter & Gamble, Shopee, Frost & Sullivan)  
-Transitioning into **Business Analyst / Data Analytics** roles in tech  
+Transitioning into **Strategy & Ops, Growth** roles in tech  
 Based in Madrid, Spain | Open to global opportunities  
 
 ---
@@ -21,8 +21,11 @@ Based in Madrid, Spain | Open to global opportunities
 - [**Spain Tourism Forecasting**](https://github.com/crissafrancisco/spain-tourism-forecasting)  
   Forecasts monthly tourism demand with SARIMA and Holt-Winters models, providing insights for staffing, pricing, and marketing strategies in the hospitality sector.  
 
-- [**YouTube User Behavior Analysis**](https://github.com/crissafrancisco/youtube-user-behavior-analysis)  
+- [**YouTube User Behavior Analysis**](https://github.com/crissafrancisco/youtube-user-behavior-analysis)
   Analyzes YouTube streaming and search history to uncover viewing patterns and content engagement trends.
+
+- [**Vibe Check Playlist**](https://github.com/crissafrancisco/Vibe_check_playlist)
+  Generates personalized Spotify playlists based on mood and vibe using Python.
 
 ---
 
