@@ -25,7 +25,7 @@ Based in Madrid, Spain | Open to global opportunities
   Analyzes YouTube streaming and search history to uncover viewing patterns and content engagement trends.
 
 - [**Vibe Check Playlist**](https://github.com/crissafrancisco/Vibe_check_playlist)
-  Generates personalized Spotify playlists based on mood and vibe using Python.
+  Analyzes photos to detect mood, energy, and aesthetic using Llama 4 Scout (vision AI), then generates a matching 10-song playlist with YouTube links. Built with Streamlit, Groq API, LangChain, and Pydantic.
 
 ---
 
